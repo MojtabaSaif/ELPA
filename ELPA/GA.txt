@@ -1,0 +1,7 @@
+maxgencount	100
+popsize	100
+showreprot	false
+pCrossOver 0.8
+pMutation 0.5
+multi false
+maxthread 100
