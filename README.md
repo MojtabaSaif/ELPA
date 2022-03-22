@@ -1,6 +1,9 @@
 ========================================================================
+
     ELPA: Evolutionary Label Propagation Algorithm
+    
 ========================================================================
+
 
 The example implements evolutionary label propagation algorithm (ELPA) that is
 
@@ -23,13 +26,14 @@ is provided.
 
 
 /////////////////////////////////////////////////////////////////////////////
+
 Parameters:
 
-   -f, --graph arg  Edge list of graph file name (default: ..\Data\karate.txt)
+     -f, --graph arg  Edge list of graph file name (default: ..\Data\karate.txt)
    
-   -t, --gt arg     partitions file name: (default: ..\Data\gt\gt_karate.txt)
+     -t, --gt arg     partitions file name: (default: ..\Data\gt\gt_karate.txt)
    
-   -o, --out arg    partitions file name: (default: None)
+     -o, --out arg    partitions file name: (default: None)
    
       --gao arg    GA setting file name (default: None)
       
@@ -37,7 +41,7 @@ Parameters:
       
       --run arg    The number of runs (default: 1)
       
-  -h, --help       Print usage
+     -h, --help       Print usage
   
    
    
